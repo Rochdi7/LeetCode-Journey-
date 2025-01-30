@@ -15,12 +15,7 @@ Welcome to **LeetCode-Journey**! This repository tracks my **weekly** progress i
 
 ## 📅 Weekly Progress
 
-### **Week 1**
-✔️ **1. Two Sum** (Easy)  
-🔗 [Problem Link](https://leetcode.com/problems/two-sum/)  
-
-✔️ **344. Reverse String** (Easy)  
-🔗 [Problem Link](https://leetcode.com/problems/reverse-string/)  
+Check out my progress in the **[progress.md](progress.md)** file! 🚀
 
 ---
 
@@ -29,7 +24,9 @@ Welcome to **LeetCode-Journey**! This repository tracks my **weekly** progress i
 - Improve problem-solving speed 🚀  
 - Master **Dynamic Programming, Graphs, and Recursion**  
 - Document solutions with explanations and complexity analysis  
+
 📌 *This log will be updated every Sunday!*  
+
 ---
 
 ## 📥 Getting Started
