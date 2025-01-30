@@ -9,7 +9,7 @@ Welcome to **LeetCode-Journey**! This repository tracks my **weekly** progress i
 ✅ **Weekly Progress Log** – Updated every Sunday 📅  
 ✅ **Organized Problem Tracking** – Categorized by topics (Arrays, DP, Graphs, etc.)  
 ✅ **Goal-Oriented Learning** – Focused on improving problem-solving skills  
-✅ **Languages Used** – [Python, C++, Java] (Modify if necessary)  
+✅ **Languages Used** – [JavaScript]
 
 ---
 
