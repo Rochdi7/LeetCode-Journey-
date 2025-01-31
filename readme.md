@@ -25,8 +25,6 @@ Check out my progress in the **[progress.md](progress.md)** file! 🚀
 - Master **Dynamic Programming, Graphs, and Recursion**  
 - Document solutions with explanations and complexity analysis  
 
-📌 *This log will be updated every Sunday!*  
-
 ---
 
 ## 📥 Getting Started
