@@ -12,4 +12,3 @@ In this folder, I am solving various problems that deal with arrays. These probl
 ---
 
 ## 🚀 More array problems will be added as I continue my journey!
-
