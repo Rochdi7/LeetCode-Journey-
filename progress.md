@@ -10,8 +10,17 @@
 ---
 
 ### **Week 2**
+✔️ **242. Valid Anagram** (Easy)  
+🔗 [Problem Link](https://leetcode.com/problems/valid-anagram/)  
+
+✔️ **217. Contains Duplicate** (Easy)  
+🔗 [Problem Link](https://leetcode.com/problems/contains-duplicate/)  
+
+---
+
+### **Week 3**
 (Upcoming...) 🚀  
 
 ---
 
-📌 *This log will be updated every Sunday!*  
+📌 *This log will be updated every Sunday!*
