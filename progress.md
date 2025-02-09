@@ -19,8 +19,18 @@
 ---
 
 ### **Week 3**
+✔️ **125. Valid Palindrome** (Easy)  
+🔗 [Problem Link](https://leetcode.com/problems/valid-palindrome/)  
+
+✔️ **26. Remove Duplicates from Sorted Array** (Easy)  
+🔗 [Problem Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)  
+
+---
+
+### **Week 4**
 (Upcoming...) 🚀  
 
 ---
 
 📌 *This log will be updated every Sunday!*
+
