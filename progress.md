@@ -1,6 +1,6 @@
 # 📅 Weekly Progress
 
-### **Week 1**
+### **Week 1**  
 ✔️ **1. Two Sum** (Easy)  
 🔗 [Problem Link](https://leetcode.com/problems/two-sum/)  
 
@@ -9,7 +9,7 @@
 
 ---
 
-### **Week 2**
+### **Week 2**  
 ✔️ **242. Valid Anagram** (Easy)  
 🔗 [Problem Link](https://leetcode.com/problems/valid-anagram/)  
 
@@ -18,7 +18,7 @@
 
 ---
 
-### **Week 3**
+### **Week 3**  
 ✔️ **125. Valid Palindrome** (Easy)  
 🔗 [Problem Link](https://leetcode.com/problems/valid-palindrome/)  
 
@@ -27,10 +27,14 @@
 
 ---
 
-### **Week 4**
-(Upcoming...) 🚀  
+### **Week 4**  
+⏸ **Taking a Break** 🏖  
 
 ---
 
-📌 *This log will be updated every Sunday!*
+### **Week 5**  
+🚀 **Coming Soon...**  
 
+---
+
+📌 *This log will be updated every Sunday!* 🚀  
