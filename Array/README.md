@@ -20,6 +20,11 @@ In this folder, I am solving various problems that deal with arrays. These probl
 - **[Solution Code](removeDuplicates.js)**
 - **Status**: Implemented with two solutions.
 
+### 4. **Move Zeroes** 🔢
+- **Problem**: Move all zeroes to the end of the array while maintaining the relative order of non-zero elements.
+- **Approach**: Two-pointer method to swap zeroes in-place efficiently.
+- **[Solution Code](moveZeroes.js)**
+- **Status**: Optimized solution implemented.
 ---
 
 ## 🚀 More array problems will be added as I continue my journey!
