@@ -33,7 +33,9 @@
 ---
 
 ### **Week 5**  
-🚀 **Coming Soon...**  
+✔️ **283. Move Zeroes** (Easy)  
+🔗 [Problem Link](https://leetcode.com/problems/move-zeroes/)  
+
 
 ---
 
